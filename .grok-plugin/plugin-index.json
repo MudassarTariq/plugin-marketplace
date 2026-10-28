@@ -559,7 +559,7 @@
       }
     },
     "ipgeolocation-io-mcp": {
-      "version": "2.0.1",
+      "version": "2.0.2",
       "components": {
         "mcpServers": [
           {
